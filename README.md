@@ -113,4 +113,4 @@ for page in range(1,11):
 # Finally, for me:)
 
 
-it's not until completing this mission that I have this chance to sharpen my skills further more as to web scraping, functional programming style, and entity relationship modeling.I wish those who are watching this project now will be moved by __my industrious attitude.__
+it's not until completing this mission that I have this chance to sharpen my skills further more as to web scraping, functional programming style, and entity relationship modeling. I wish those who are watching this project now will be moved by __my industrious attitude.__
