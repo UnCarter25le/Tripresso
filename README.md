@@ -18,7 +18,7 @@
 - ## Package needed for crawler:
 ![crawler](https://github.com/UnCarter25le/Tripresso/blob/master/packageNeededForCrawler.png)
 
-- ## Python 3.6.6
+- ## Python 3.6.6 and MySQL 5.7.25
 
 > ##  SECOND-------------Project Overview: 
 
