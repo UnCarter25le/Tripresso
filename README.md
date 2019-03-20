@@ -18,6 +18,7 @@
 - ## Package needed for crawler:
 ![crawler](https://github.com/UnCarter25le/Tripresso/blob/master/packageNeededForCrawler.png)
 
+- ## Python 3.6.6
 
 > ##  SECOND-------------Project Overview: 
 
