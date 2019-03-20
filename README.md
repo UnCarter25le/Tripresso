@@ -5,7 +5,12 @@
 
 - In order to meet __Tripresso Corporation's ([website](https://www.tripresso.com/ "旅遊咖"))__ expectation.
 
+Making a crawler for these website:
+    - https://www.newamazing.com.tw/EW/GO/GroupList.asp   
 
+    - http://www.orangetour.com.tw/EW/GO/GroupList.asp
+
+After aquiring essential data, please create a database and ERmodel to enrich the significance of data.
 
 ---
 # Next, there are several parts having those who are interested in here get evolved in this project  easily.
